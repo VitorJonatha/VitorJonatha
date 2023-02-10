@@ -1,9 +1,11 @@
 ## Olá! Eu sou o Vitor Jonatha
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorJonatha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 <div>
 <a href="https://github.com/VitorJonatha">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorJonatha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorJonatha&layout=compact&langs_count=7&theme=dracula"/>
+![octocat-1666205599296](https://user-images.githubusercontent.com/110053991/218093765-1282af60-52e9-4298-b64a-1cb4756c2f7d.png)
 </div>
 
 
