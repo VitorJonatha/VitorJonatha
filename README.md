@@ -16,3 +16,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white" />
 </div><br/>
 
+
+  
+![Snake animation](https://github.com/VitorJonatha/VitorJonatha/blob/output/github-contribution-grid-snake.svg)
