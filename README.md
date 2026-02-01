@@ -16,13 +16,14 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
+<!--
 📈 GitHub Stats:
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=VitorJonatha&show_icons=true&theme=transparent" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorJonatha&layout=compact&theme=transparent" />
   <img align="right" alt="VitorJonatha" height="150" style="border-radius:60px;" src="https://user-images.githubusercontent.com/110053991/218093765-1282af60-52e9-4298-b64a-1cb4756c2f7d.png">
 </p>
+-->
 
 📫 Como me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/vitor-amorim-a482a2239/)
