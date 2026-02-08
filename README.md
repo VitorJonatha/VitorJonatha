@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Vitor Jonatha
+# Eu sou o Vitor Jonatha
 
 💻 Desenvolvedor em constante evolução, sempre em busca de novos conhecimentos e boas práticas no desenvolvimento de software.
 
@@ -30,5 +30,3 @@
 - [Email](vitoramorim2918@gmail.com)
 
 ---
-
-✨ *"Sempre buscando aprender algo novo e colaborar em projetos que fazem a diferença."*
